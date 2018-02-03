@@ -14,16 +14,16 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/Group.png
 logo_dark: assets/images/sriram.png
 favicon: assets/images/sriram.png
-production_url: https://myJekyll.github.io/jasper2/
-source_url: https://github.com/myJekyll/jasper2/
+production_url: https://blog.sriramj.xyz/
+source_url: https://github.com/SriramJothiswaran/blog
 
 # Social info
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: sriramvj # replace by your username
+facebook: sriramVJrasigan # replace by your username
 
 # Disqus
 disqus: False

@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+sriram:
+  username: sriram
+  name: Sriram Jothiswaran
+  location: Chennai, India
+  url_full: False
+  url: False
+  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
+  picture: assets/images/sriramj.png
+  facebook: False
+  twitter: False
+  cover: False
