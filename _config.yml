@@ -8,12 +8,12 @@ language: 'en-uk'
 baseurl:
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: SriramJ's Blog
+description: Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/Group.png
+logo_dark: assets/images/sriram.png
+favicon: assets/images/sriram.png
 production_url: https://myJekyll.github.io/jasper2/
 source_url: https://github.com/myJekyll/jasper2/
 
@@ -66,13 +66,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
-repo: jasper2
+username: SriramJothiswaran
+repo: blog
 branch: master
 relative_source: ../jasper2/
 destination: _site
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
+production_url:  https://blog.sriramj.xyz/
+source_url:  https://github.com/SriramJothiswaran/blog
 
 exclude:
   - README.md
