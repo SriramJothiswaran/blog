@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: SriramJothiswaran/blog
   branch: master
+  site_domain: https://blog.sriramj.xyz/
 
 media_folder: "assets/images"
 collections:
