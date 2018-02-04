@@ -38,4 +38,24 @@ With a move away from cloud computing, decentralized systems like Bitcoin give e
 
 > give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure
 
+
+
+## Distributed Ledger Technology (DLT)
+
+A “distributed ledger” is another term for a blockchain. It distributes a database (a ledger) of transactions to all participants in a network (also called “peers” or “nodes”). There is no central administrator or centralised data storage.
+
+Distributed ledgers existed prior to Bitcoin, the Bitcoin blockchain marks the convergence of a host of technologies, including time-stamping of transactions, Peer-to-Peer (P2P) networks, cryptography, and shared computational power, along with a new consensus algorithm. 
+
+In summary, distributed ledger technology generally consists of three basic components:
+
+A **data model **that captures the current state of the ledger
+
+A **language of transactions** that changes the ledger state
+
+A **protocol** used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6WG7D47tGb0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 \_\_drafting\_\_
