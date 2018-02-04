@@ -78,6 +78,8 @@ if(both parties agree){execute certain instructions}
 
 
 
+**Consensus** refers to a system of ensuring that parties agree to a certain state of the system as the true state.
 
+![consensus](/assets/images/consensus.jpg)
 
 \_\_drafting\_\_
