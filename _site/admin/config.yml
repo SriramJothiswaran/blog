@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: SriramJothiswaran/blog
+  branch: master
+  site_domain: blog.sriramj.xyz
+
+media_folder: "assets/images"
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "current", name: "current", widget: "hidden", default: "post"}
+      - {label: "cover", name: "cover", widget: "image"}
+      - {label: "navigation", name: "navigation", widget: "hidden", default: True}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "date", name: "date", widget: "datetime"}
+      - {label: "tags", name: "tags", widget: "string"}
+      - {label: "class", name: "class", widget: "hidden", default: "post-template"}
+      - {label: "subclass", name: "subclass", widget: "string"}
+      - {label: "author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

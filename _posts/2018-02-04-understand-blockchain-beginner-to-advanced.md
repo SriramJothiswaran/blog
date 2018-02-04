@@ -28,11 +28,11 @@ Let's get back to late nineties were computers filled the entire room. Mainframe
 
  With the invention of PC's similar computational capabilities were now housed both on the clients, as well as the servers. This gave rise to 'client-server' architecture, which supported the development of relational database systems. Massive data sets, which are housed on mainframes, could move onto a distributed architecture. This data could replicate from server to server, and subsets of the data could be accessed and processed on clients, and then, synced back to the server.
 
-As time went by, Internet and cloud architecture enabled global access using various devices.There are two major problems with cloud computing: 
+As time went by, Internet and cloud architecture enabled global access using various devices.There are two major problems with cloud computing:
 
-(a) users don’t own their own data, and 
+(a) users don’t own their own data, and
 
-(b) remote servers are security holes. 
+(b) remote servers are security holes.
 
 With a move away from cloud computing, decentralized systems like Bitcoin give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure.
 
@@ -44,7 +44,7 @@ With a move away from cloud computing, decentralized systems like Bitcoin give e
 
 A “distributed ledger” is another term for a blockchain. It distributes a database (a ledger) of transactions to all participants in a network (also called “peers” or “nodes”). There is no central administrator or centralised data storage.
 
-Distributed ledgers existed prior to Bitcoin, the Bitcoin blockchain marks the convergence of a host of technologies, including time-stamping of transactions, Peer-to-Peer (P2P) networks, cryptography, and shared computational power, along with a new consensus algorithm. 
+Distributed ledgers existed prior to Bitcoin, the Bitcoin blockchain marks the convergence of a host of technologies, including time-stamping of transactions, Peer-to-Peer (P2P) networks, cryptography, and shared computational power, along with a new consensus algorithm.
 
 In summary, distributed ledger technology generally consists of three basic components:
 
@@ -80,6 +80,8 @@ if(both parties agree){execute certain instructions}
 
 **Consensus** refers to a system of ensuring that parties agree to a certain state of the system as the true state.
 
-![consensus](/assets/images/consensus.jpg)
+<img src="assets/images/consensus.jpg" alt="consensus" style="width: 250px; height:250px"/>
+
+
 
 \_\_drafting\_\_

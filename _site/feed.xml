@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-04T19:30:51+05:30</updated><id>http://localhost:4000/</id><title type="html">SriramJ’s Blog</title><subtitle>Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality</subtitle><entry><title type="html">Understand Blockchain - Beginner to Advanced - Part 1</title><link href="http://localhost:4000/understand-blockchain-beginner-to-advanced" rel="alternate" type="text/html" title="Understand Blockchain - Beginner to Advanced - Part 1" /><published>2018-02-03T15:48:00+05:30</published><updated>2018-02-03T15:48:00+05:30</updated><id>http://localhost:4000/understand-blockchain-beginner-to-advanced</id><content type="html" xml:base="http://localhost:4000/understand-blockchain-beginner-to-advanced">&lt;h1 id=&quot;drafting-this-wonderful-article-&quot;&gt;Drafting this wonderful article !&lt;/h1&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="blockchain" /><summary type="html">Drafting this wonderful article !</summary></entry><entry><title type="html">Gettysburg Address</title><link href="http://localhost:4000/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" /><published>2018-02-02T15:48:00+05:30</published><updated>2018-02-02T15:48:00+05:30</updated><id>http://localhost:4000/gettysburg-address</id><content type="html" xml:base="http://localhost:4000/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-04T22:21:27+05:30</updated><id>http://localhost:4000/</id><title type="html">SriramJ’s Blog</title><subtitle>Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality</subtitle><entry><title type="html">Understand Blockchain - Beginner to Advanced - Part 1</title><link href="http://localhost:4000/understand-blockchain-beginner-to-advanced" rel="alternate" type="text/html" title="Understand Blockchain - Beginner to Advanced - Part 1" /><published>2018-02-03T15:48:00+05:30</published><updated>2018-02-03T15:48:00+05:30</updated><id>http://localhost:4000/understand-blockchain-beginner-to-advanced</id><content type="html" xml:base="http://localhost:4000/understand-blockchain-beginner-to-advanced">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;This article introduces you to the distributed ledger technologies (DLT), this includes blockchain too.&lt;/p&gt;
+
+&lt;p&gt;What you will learn :-&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Blockchain and DLT&lt;/li&gt;
+  &lt;li&gt;Permissioned and Permissionless Blockchains&lt;/li&gt;
+  &lt;li&gt;Consensus algorithms and Smart Contracts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;growth-of-distributed-ledger-technologies&quot;&gt;Growth of Distributed Ledger Technologies&lt;/h2&gt;
+
+&lt;p&gt;Let’s get back to late nineties were computers filled the entire room. Mainframes were more centralized in nature that would serve the entire building. The access was through dumb terminals which does I/O operations without  much of storage and processing.&lt;/p&gt;
+
+&lt;p&gt;With the invention of PC’s similar computational capabilities were now housed both on the clients, as well as the servers. This gave rise to ‘client-server’ architecture, which supported the development of relational database systems. Massive data sets, which are housed on mainframes, could move onto a distributed architecture. This data could replicate from server to server, and subsets of the data could be accessed and processed on clients, and then, synced back to the server.&lt;/p&gt;
+
+&lt;p&gt;As time went by, Internet and cloud architecture enabled global access using various devices.There are two major problems with cloud computing:&lt;/p&gt;
+
+&lt;p&gt;(a) users don’t own their own data, and&lt;/p&gt;
+
+&lt;p&gt;(b) remote servers are security holes.&lt;/p&gt;
+
+&lt;p&gt;With a move away from cloud computing, decentralized systems like Bitcoin give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;distributed-ledger-technology-dlt&quot;&gt;Distributed Ledger Technology (DLT)&lt;/h2&gt;
+
+&lt;p&gt;A “distributed ledger” is another term for a blockchain. It distributes a database (a ledger) of transactions to all participants in a network (also called “peers” or “nodes”). There is no central administrator or centralised data storage.&lt;/p&gt;
+
+&lt;p&gt;Distributed ledgers existed prior to Bitcoin, the Bitcoin blockchain marks the convergence of a host of technologies, including time-stamping of transactions, Peer-to-Peer (P2P) networks, cryptography, and shared computational power, along with a new consensus algorithm.&lt;/p&gt;
+
+&lt;p&gt;In summary, distributed ledger technology generally consists of three basic components:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;strong&gt;data model&lt;/strong&gt; that captures the current state of the ledger&lt;/li&gt;
+  &lt;li&gt;A &lt;strong&gt;language of transactions&lt;/strong&gt; that changes the ledger state&lt;/li&gt;
+  &lt;li&gt;A &lt;strong&gt;protocol&lt;/strong&gt; used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6WG7D47tGb0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;blockchains&quot;&gt;Blockchains&lt;/h2&gt;
+
+&lt;p&gt;As per wikipedia,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a cryptographic hash of the previous block, a timestamp and transaction data&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My way of defining&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Blockchain is typically a distributed ledger in combination with smart contracts and other assistive technologies. Distribution of ledger happens by various consensus algorithm.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Smart contracts&lt;/strong&gt; are simply computer programs that execute predefined actions when certain conditions within the system are met. You can imagine it as a logical IF statement.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if(both parties agree){execute certain instructions}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Consensus&lt;/strong&gt; refers to a system of ensuring that parties agree to a certain state of the system as the true state.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/consensus.jpg&quot; alt=&quot;consensus&quot; style=&quot;width: 250px; height:250px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;__drafting__&lt;/p&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="blockchain" /><summary type="html">Introduction</summary></entry><entry><title type="html">Gettysburg Address</title><link href="http://localhost:4000/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" /><published>2018-02-02T15:48:00+05:30</published><updated>2018-02-02T15:48:00+05:30</updated><id>http://localhost:4000/gettysburg-address</id><content type="html" xml:base="http://localhost:4000/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
 
 &lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
 
