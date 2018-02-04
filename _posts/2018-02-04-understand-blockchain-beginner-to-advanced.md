@@ -48,7 +48,7 @@ Distributed ledgers existed prior to Bitcoin, the Bitcoin blockchain marks the c
 
 In summary, distributed ledger technology generally consists of three basic components:
 
-A **data model **that captures the current state of the ledger
+A **data model** that captures the current state of the ledger
 
 A **language of transactions** that changes the ledger state
 
