@@ -76,15 +76,7 @@ My way of defining
 if(both parties agree){execute certain instructions}
 ```
 
-<pre><code>
 
-if(both parties agree){
-
-execute certain instructions
-
-}
-
-</code></pre>
 
 
 
