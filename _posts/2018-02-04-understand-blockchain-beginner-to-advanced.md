@@ -1,13 +1,15 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/blockchain.jpg'
-navigation: True
+cover: assets/images/blockchain.jpg
+navigation: true
 title: Understand Blockchain - Beginner to Advanced - Part 1
-date: 2018-02-03 10:18:00
+date: 2018-02-03T10:18:00.000Z
 tags: blockchain
 class: post-template
-subclass: 'post tag-blockchain'
+subclass: post tag-blockchain
 author: sriram
 ---
-# Drafting this wonderful article !
+# Introduction
+
+This article introduces you to the distributed ledger technologies (DLT), this includes blockchain too.
