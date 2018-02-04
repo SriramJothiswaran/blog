@@ -28,8 +28,14 @@ Let's get back to late nineties were computers filled the entire room. Mainframe
 
  With the invention of PC's similar computational capabilities were now housed both on the clients, as well as the servers. This gave rise to 'client-server' architecture, which supported the development of relational database systems. Massive data sets, which are housed on mainframes, could move onto a distributed architecture. This data could replicate from server to server, and subsets of the data could be accessed and processed on clients, and then, synced back to the server.
 
+As time went by, Internet and cloud architecture enabled global access using various devices.There are two major problems with cloud computing: 
 
+(a) users don’t own their own data, and 
 
+(b) remote servers are security holes. 
 
+With a move away from cloud computing, decentralized systems like Bitcoin give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure.
+
+> give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure
 
 \_\_drafting\_\_
