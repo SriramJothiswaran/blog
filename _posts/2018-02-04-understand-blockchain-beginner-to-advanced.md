@@ -58,6 +58,26 @@ In summary, distributed ledger technology generally consists of three basic comp
 
 
 
+## Blockchains
+
+As per wikipedia,
+
+> A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a cryptographic hash of the previous block, a timestamp and transaction data
+
+
+
+My way of defining
+
+> Blockchain is typically a distributed ledger in combination with smart contracts and other assistive technologies. Distribution of ledger happens by various consensus algorithm.
+
+**Smart contracts** are simply computer programs that execute predefined actions when certain conditions within the system are met. You can imagine it as a logical IF statement.
+
+```
+if(both parties agree){execute certain instructions}
+```
+
+
+
 
 
 \_\_drafting\_\_
