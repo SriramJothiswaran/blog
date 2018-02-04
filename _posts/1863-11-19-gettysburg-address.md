@@ -2,7 +2,7 @@
 layout: post
 current: post
 cover: assets/images/bus.jpg
-navigation: False
+navigation: True
 title: Gettysburg Address
 date: 2018-02-02 10:18:00
 tags:
