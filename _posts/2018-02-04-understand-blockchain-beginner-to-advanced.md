@@ -76,11 +76,15 @@ My way of defining
 if(both parties agree){execute certain instructions}
 ```
 
-`if(both parties agree){`
+<pre><code>
 
-`execute certain instructions`
+if(both parties agree){
 
-`}`
+execute certain instructions
+
+}
+
+</code></pre>
 
 
 
