@@ -5,6 +5,7 @@ backend:
   site_domain: blog.sriramj.xyz
 
 media_folder: "assets/images"
+public_folder: "_site/assets/images"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
