@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/you.jpeg
+cover: assets/images/you.jpeg
 navigation: true
 title: >-
   Startup Lino raises $200 billion to incorporate blockchain technology in
