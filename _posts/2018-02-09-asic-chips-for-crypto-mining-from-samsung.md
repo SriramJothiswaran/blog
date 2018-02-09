@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/samsung-exynos.jpg
+cover: assets/images/samsung-exynos.jpg
 navigation: true
 title: ASIC chips for crypto mining from Samsung
 date: 2018-02-09T16:45:23.960Z
