@@ -17,6 +17,8 @@ This article introduces you to the distributed ledger technologies (DLT), this i
 What you will learn :-
 
 * Blockchain and DLT
+* Permissioned and Permissionless Blockchains
+* Consensus algorithms and Smart Contracts
 
 ## Growth of Distributed Ledger Technologies
 
