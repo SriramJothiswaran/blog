@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/blockchain2.png
+cover: assets/images/blockchain2.png
 navigation: true
 title: Understand Blockchain - Beginner to Advanced - Part 2
 date: 2018-02-11T16:41:31.328Z
