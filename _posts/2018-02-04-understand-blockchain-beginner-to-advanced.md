@@ -93,4 +93,20 @@ The Merkle tree, also known as a binary hash tree, is a data structure that is u
 
 > "Merkle trees are used to summarize all the transactions in a block, producing an overall digital fingerprint of the entire set of transactions, providing a very efficient process to verify whether a transaction is included in a block."
 
+
+
+<hr>
+
+## Difference between Blockchain and Database
+
+<img src="assets/images/Centralized_Databases_vs_Blockchain.png" alt="merkle tree"/>
+
+There are some key disimilarities between blockchain and traditional database.
+
+
+
+Blockchain is read-only architecture, where as in database data can be  read , modifed and deleted. Every new block gets appended to the block chain by linking to the previous block's 'hash'. There are no administrator permissions within a blockchain that allow editing or deleting of data. 
+
+Blockchains were designed for decentralized applications, whereas relational databases, in general, were originally designed for centralized applications, where a single entity controls the data.
+
 ## to be continued... !!
