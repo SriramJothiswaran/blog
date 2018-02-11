@@ -18,7 +18,6 @@ What you will learn :-
 
 * Blockchain and DLT
 
-
 ## Growth of Distributed Ledger Technologies
 
 Let's get back to late nineties were computers filled the entire room. Mainframes were more centralized in nature that would serve the entire building. The access was through dumb terminals which does I/O operations without  much of storage and processing.
@@ -77,13 +76,21 @@ Timestamping is a major feature of blockchain technology. Here each block is tim
 
 <img src="assets/images/merkle.jpg" alt="merkle root"/>
 
-
-
 A block in the blockchain network commonly consists of following metadata :-
 
 * Timestamp
 * Nonce (proof of work)
 * Merkle Root for transactions in the block
 * Reference to previous block
+
+
+
+## Merkle Tree
+
+The Merkle tree, also known as a binary hash tree, is a data structure that is used to store hashes of the individual data in large datasets in a way to make the verification of the dataset efficient. It is an anti-tamper mechanism to ensure that the large dataset has not been changed. 
+
+<img src="assets/images/merkletree.jpg" alt="merkle tree"/>
+
+> "Merkle trees are used to summarize all the transactions in a block, producing an overall digital fingerprint of the entire set of transactions, providing a very efficient process to verify whether a transaction is included in a block."
 
 ## to be continued... !!
