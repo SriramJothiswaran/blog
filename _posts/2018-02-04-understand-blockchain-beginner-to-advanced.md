@@ -70,16 +70,21 @@ if(both parties agree){execute certain instructions}
 
 <img src="assets/images/consensus.jpg" alt="consensus" style="width: 250px; height:250px"/>
 
-
-
 **Blockchain** is constructed by sequential order of blocks, hence the name block-chain. A block refers to set of transactions that are bundled together and added to the chain at same time. In bitcoin network miners cluster unconfirmed and valid transactions into a block. Each block has a size limit and contain a given number of transactions . In bitcoin network miner nodes must solve cryptographic challenge to move to the next block. This process in known as** "Proof of Work" **and this requires significant computing power to solve cryptographic problem.
-
-
 
 ## Blockchain Time-Stamping
 
 Timestamping is a major feature of blockchain technology. Here each block is timestamped, with every new block being reffered to the previous block. Combined with cryptographic hashes, this timestamped chain of blocks provides an immutable record of all transactions in the network, from the very first (or genesis) block.
 
+<img src="assets/images/merkle.jpg" alt="merkle root"/>
 
+
+
+A block in the blockchain network commonly consists of following metadata :-
+
+* Timestamp
+* Nonce (proof of work)
+* Merkle Root for transactions in the block
+* Reference to previous block
 
 ## to be continued... !!
