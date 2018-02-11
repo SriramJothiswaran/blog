@@ -72,6 +72,6 @@ if(both parties agree){execute certain instructions}
 
 
 
-**Blockchain** is constructed by sequential order of blocks, hence the name block-chain. A block refers to set of transactions that are bundled together and added to the chain at same time. In bitcoin network miners cluster unconfirmed and valid transactions into blocks
+**Blockchain** is constructed by sequential order of blocks, hence the name block-chain. A block refers to set of transactions that are bundled together and added to the chain at same time. In bitcoin network miners cluster unconfirmed and valid transactions into a block. Each block has a size limit and contain a given number of transactions . In bitcoin network miner nodes must solve cryptographic challenge to move to the next block. This process in known as** "Proof of Work" **and this requires significant computing power to solve cryptographic problem.
 
 to be continued... !!
