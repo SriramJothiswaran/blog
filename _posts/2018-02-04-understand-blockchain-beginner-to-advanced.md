@@ -72,4 +72,6 @@ if(both parties agree){execute certain instructions}
 
 
 
+Blockchain is constructed by sequential order of blocks, hence the name block-chain. A block refers to set of transactions that are bundled together and added to the chain at same time. In bitcoin network miners cluster unconfirmed and valid transactions into blocks
+
 to be continued... !!
