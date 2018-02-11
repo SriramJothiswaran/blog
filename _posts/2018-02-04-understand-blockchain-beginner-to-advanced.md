@@ -109,4 +109,6 @@ Blockchain is read-only architecture, where as in database data can be  read , m
 
 Blockchains were designed for decentralized applications, whereas relational databases, in general, were originally designed for centralized applications, where a single entity controls the data.
 
-## to be continued... !!
+## 
+
+**Click here for Understand Blockchain - Beginner to Advanced - Part 2 (permissionless and permissioned blockchain)**
