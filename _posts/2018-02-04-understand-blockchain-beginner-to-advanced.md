@@ -89,7 +89,7 @@ A block in the blockchain network commonly consists of following metadata :-
 
 The Merkle tree, also known as a binary hash tree, is a data structure that is used to store hashes of the individual data in large datasets in a way to make the verification of the dataset efficient. It is an anti-tamper mechanism to ensure that the large dataset has not been changed. 
 
-<img src="assets/images/merkletree.jpg" alt="merkle tree"/>
+<img src="assets/images/merkletree.png" alt="merkle tree"/>
 
 > "Merkle trees are used to summarize all the transactions in a block, producing an overall digital fingerprint of the entire set of transactions, providing a very efficient process to verify whether a transaction is included in a block."
 
