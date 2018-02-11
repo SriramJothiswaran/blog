@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/whatsapp_pay.png
+cover: assets/images/whatsapp_pay.png
 navigation: true
 title: WhatsApp payment service goes live in India
 date: 2018-02-11T14:03:47.718Z
