@@ -76,6 +76,6 @@ if(both parties agree){execute certain instructions}
 
 Timestamping is a major feature of blockchain technology. Here each block is timestamped, with every new block being reffered to the previous block. Combined with cryptographic hashes, this timestamped chain of blocks provides an immutable record of all transactions in the network, from the very first (or genesis) block.
 
-<img src="assets/images/merkle.jpg" alt="merkle root" style="width: 250px; height:250px"/>
+<img src="assets/images/merkle.jpg" alt="merkle root"/>
 
 ## to be continued... !!
