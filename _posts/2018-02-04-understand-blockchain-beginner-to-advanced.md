@@ -78,4 +78,13 @@ Timestamping is a major feature of blockchain technology. Here each block is tim
 
 <img src="assets/images/merkle.jpg" alt="merkle root"/>
 
+
+
+A block in the blockchain network commonly consists of following metadata :-
+
+* Timestamp
+* Nonce (proof of work)
+* Merkle Root for transactions in the block
+* Reference to previous block
+
 ## to be continued... !!
