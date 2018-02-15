@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/waes.jpg
+cover: assets/images/waes.jpg
 navigation: true
 title: Western Union to use Ripple for Money Transfers
 date: 2018-02-15T05:36:57.590Z
