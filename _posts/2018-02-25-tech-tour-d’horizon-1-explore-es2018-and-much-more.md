@@ -4,12 +4,11 @@ current: post
 cover: assets/images/tech_horizon_1.png
 navigation: true
 title: ' Tech Tour D’Horizon - 1 - Explore ES2018 and much more'
-date: {}
+date: 2018-02-25T05:36:57.590Z
 tags: tour-d-horizon
 class: post-template
 subclass: tag tour-d-horizon
 author: sriram
-published: true
 ---
 # JS
 
@@ -35,4 +34,3 @@ Promise.prototype.finally() is now part of latest Ecmascript spec draft.
 
 
 ## [Single Page Apps with Vue.js and Flask: State Management with Vuex](http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-with-vuex/)
-
