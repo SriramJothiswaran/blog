@@ -9,7 +9,6 @@ tags: tour-d-horizon
 class: post-template
 subclass: tag tour-d-horizon
 author: sriram
-published: true
 ---
 # JS
 
@@ -33,6 +32,4 @@ Promise.prototype.finally() is now part of latest Ecmascript spec draft.
 
 ## [9 Promising Promise Tips](https://dev.to/kepta/promising-promise-tips--c8f)
 
-
 ## [Single Page Apps with Vue.js and Flask: State Management with Vuex](http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-with-vuex/)
-
