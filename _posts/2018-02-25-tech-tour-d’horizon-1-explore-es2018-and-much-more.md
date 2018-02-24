@@ -4,7 +4,7 @@ current: post
 cover: assets/images/tech_horizon_1.png
 navigation: true
 title: ' Tech Tour D’Horizon - 1 - Explore ES2018 and much more'
-date: 2018-02-25T05:36:57.590Z
+date: 2018-02-24T05:36:57.590Z
 tags: tour-d-horizon
 class: post-template
 subclass: tag tour-d-horizon
