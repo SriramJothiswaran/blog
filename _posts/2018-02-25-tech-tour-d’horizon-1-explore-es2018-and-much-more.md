@@ -28,6 +28,8 @@ An ever-evolving, very opinionated architecture and dev environment for new Vue 
 
 ## [Using Promise.prototype.finally in Node.js](http://thecodebarbarian.com/using-promise-finally-in-node-js.html)
 
+```
 Promise.prototype.finally() is now part of latest Ecmascript spec draft.
+```
 
 ##
