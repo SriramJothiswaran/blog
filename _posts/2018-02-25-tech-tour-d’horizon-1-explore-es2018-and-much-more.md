@@ -30,6 +30,4 @@ An ever-evolving, very opinionated architecture and dev environment for new Vue 
 
 Promise.prototype.finally() is now part of latest Ecmascript spec draft.
 
-## 
-
 ##
