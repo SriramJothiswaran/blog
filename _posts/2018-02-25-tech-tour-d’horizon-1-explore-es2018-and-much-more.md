@@ -4,7 +4,11 @@ current: post
 cover: assets/images/tech_horizon_1.png
 navigation: true
 title: ' Tech Tour D’Horizon - 1 - Explore ES2018 and much more'
+<<<<<<< HEAD
 date: 2018-02-25T05:36:57.590Z
+=======
+date: 02/25/2018 1:06 AM
+>>>>>>> 0aa72b61d49b1585a1885ee62f9f46b81cef75b9
 tags: tour-d-horizon
 class: post-template
 subclass: tag tour-d-horizon
@@ -31,6 +35,5 @@ An ever-evolving, very opinionated architecture and dev environment for new Vue 
 Promise.prototype.finally() is now part of latest Ecmascript spec draft.
 
 ## [9 Promising Promise Tips](https://dev.to/kepta/promising-promise-tips--c8f)
-
 
 ## [Single Page Apps with Vue.js and Flask: State Management with Vuex](http://stackabuse.com/single-page-apps-with-vue-js-and-flask-state-management-with-vuex/)
