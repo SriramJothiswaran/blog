@@ -10,7 +10,7 @@ class: post-template
 subclass: tag tour-d-horizon
 author: sriram
 ---
-# JS  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heart_left-highlight_jon_01.svg/491px-Heart_left-highlight_jon_01.svg.png" width="20"></img>
+# JS  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Heart_left-highlight_jon_01.svg/491px-Heart_left-highlight_jon_01.svg.png" width="20"/>
 
 <hr/>
 
@@ -28,7 +28,7 @@ An ever-evolving, very opinionated architecture and dev environment for new Vue 
 
 ## [Using Promise.prototype.finally in Node.js](http://thecodebarbarian.com/using-promise-finally-in-node-js.html)
 
-## 
+Promise.prototype.finally() is now part of latest Ecmascript spec draft.
 
 ## 
 
