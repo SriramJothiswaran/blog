@@ -15,15 +15,7 @@ published: true
 
 
 
-WHERE IS THIS DATA COMING FROM?
 
-Start your free trial today
-
-
-
-Email
-
-Email
 
 Last September, JPMorgan Chase CEO Jamie Dimon took a stab at Bitcoin: “It’s worse than tulip bulbs. It won’t end well. Someone is going to get killed.”
 
