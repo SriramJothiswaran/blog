@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: blog.sriramj.xyz
 
-media_folder: "assets/images"
+media_folder: "./assets/images"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
@@ -22,4 +22,5 @@ collections:
       - {label: "class", name: "class", widget: "hidden", default: "post-template"}
       - {label: "subclass", name: "subclass", widget: "string"}
       - {label: "author", name: "author", widget: "string"}
+      - {label: "published", name: "published", widget: "boolean",default: false}
       - {label: "Body", name: "body", widget: "markdown"}

@@ -8,6 +8,94 @@
     
       
       <item>
+        <title> Tech Tour D’Horizon - 1 - Explore ES2018 and much more</title>
+        
+          <description>&lt;h1 id=&quot;js&quot;&gt;JS&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sat, 24 Feb 2018 05:36:57 +0000</pubDate>
+        <link>
+        http://localhost:4000/tech-tour-d-horizon-1-explore-es2018-and-much-more</link>
+        <guid isPermaLink="true">http://localhost:4000/tech-tour-d-horizon-1-explore-es2018-and-much-more</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Western Union to use Ripple for Money Transfers</title>
+        
+          <description>&lt;p&gt;You can add Western Union to the growing list of banks and financial institutions that are test-driving Ripple, the blockchain company trying to become the go-to service for global money transfers.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 15 Feb 2018 05:36:57 +0000</pubDate>
+        <link>
+        http://localhost:4000/western-union-to-use-ripple-for-money-transfers</link>
+        <guid isPermaLink="true">http://localhost:4000/western-union-to-use-ripple-for-money-transfers</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Understand Blockchain - Beginner to Advanced - Part 2</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;Drafting……..!!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 11 Feb 2018 16:41:31 +0000</pubDate>
+        <link>
+        http://localhost:4000/understand-blockchain-beginner-to-advanced-part-2</link>
+        <guid isPermaLink="true">http://localhost:4000/understand-blockchain-beginner-to-advanced-part-2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>WhatsApp payment service goes live in India</title>
+        
+          <description>&lt;p&gt;Whatsapp has been working on peer to peer payments for a long peroid of time. As a WhatsApp beta tester i tweeted regarding this major update last year multiple times and got fed up on not coming up for general use. Finally Facebook owned messaging company launched payment service in beta in India. Many beta users saw this feature poping up in both IOS and Android.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 11 Feb 2018 14:03:47 +0000</pubDate>
+        <link>
+        http://localhost:4000/whatsapp-payment-service-goes-live-in-india</link>
+        <guid isPermaLink="true">http://localhost:4000/whatsapp-payment-service-goes-live-in-india</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Startup Lino raises $200 billion to incorporate blockchain technology in Youtube</title>
+        
+          <description>&lt;p&gt;Silicon Valley startup Lino is preparing to take on YouTube with a decentralized, collectively-owned video content distribution system that purports to cut out the middleman to more fairly compensate content creators.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 09 Feb 2018 17:34:22 +0000</pubDate>
+        <link>
+        http://localhost:4000/startup-lino-raises-200-billion-to-incorporate-blockchain-technology-in-youtube</link>
+        <guid isPermaLink="true">http://localhost:4000/startup-lino-raises-200-billion-to-incorporate-blockchain-technology-in-youtube</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>ASIC chips for crypto mining from Samsung</title>
+        
+          <description>&lt;p&gt;Samsung has started manufacturing ASIC chips for cryptocurrency mining, a company spokesperson recently confirmed this news.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 09 Feb 2018 16:45:23 +0000</pubDate>
+        <link>
+        http://localhost:4000/asic-chips-for-crypto-mining-from-samsung</link>
+        <guid isPermaLink="true">http://localhost:4000/asic-chips-for-crypto-mining-from-samsung</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Understand Blockchain - Beginner to Advanced - Part 1</title>
         
           <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
@@ -201,62 +289,6 @@
         <link>
         http://localhost:4000/private-sites</link>
         <guid isPermaLink="true">http://localhost:4000/private-sites</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Advanced Markdown tips</title>
-        
-          <description>&lt;p&gt;There are lots of powerful things you can do with the Ghost editor&lt;/p&gt;
-&lt;p&gt;If you've gotten pretty comfortable with &lt;a href=&quot;/the-editor/&quot;&gt;all the basics&lt;/a&gt; of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-&lt;p&gt;As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.&lt;/p&gt;
-&lt;h2 id=&quot;specialformatting&quot;&gt;Special formatting&lt;/h2&gt;
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;s&gt;strike through&lt;/s&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;highlight&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;writingcodeblocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using &lt;a href=&quot;http://prismjs.com/&quot;&gt;Prism.js&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;fullbleedimages&quot;&gt;Full bleed images&lt;/h2&gt;
-&lt;p&gt;One neat trick which you can use in Markdown to distinguish between different types of images is to add a &lt;code&gt;#hash&lt;/code&gt; value to the end of the source URL, and then target images containing the hash with special styling. For example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://casper.ghost.org/v1.0.0/images/walking.jpg#full&quot; alt=&quot;walking&quot;&gt;&lt;/p&gt;
-&lt;p&gt;which is styled with...&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;img[src$=&amp;quot;#full&amp;quot;] {
-    max-width: 100vw;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.&lt;/p&gt;
-&lt;h2 id=&quot;referencelists&quot;&gt;Reference lists&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The quick brown &lt;a href=&quot;https://en.wikipedia.org/wiki/Fox&quot; title=&quot;Wikipedia: Fox&quot;&gt;fox&lt;/a&gt;, jumped over the lazy &lt;a href=&quot;https://en.wikipedia.org/wiki/Dog&quot; title=&quot;Wikipedia: Dog&quot;&gt;dog&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-&lt;h2 id=&quot;creatingfootnotes&quot;&gt;Creating footnotes&lt;/h2&gt;
-&lt;p&gt;The quick brown fox&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt; jumped over the lazy dog&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn2&quot; id=&quot;fnref2&quot;&gt;[2]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Footnotes are a great way to add additional contextual details when appropriate. Ghost will automatically add footnote content to the very end of your post.&lt;/p&gt;
-&lt;h2 id=&quot;fullhtml&quot;&gt;Full HTML&lt;/h2&gt;
-&lt;p&gt;Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;hr class=&quot;footnotes-sep&quot;&gt;
-&lt;section class=&quot;footnotes&quot;&gt;
-&lt;ol class=&quot;footnotes-list&quot;&gt;
-&lt;li id=&quot;fn1&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Foxes are red &lt;a href=&quot;#fnref1&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn2&quot; class=&quot;footnote-item&quot;&gt;&lt;p&gt;Dogs are usually not red &lt;a href=&quot;#fnref2&quot; class=&quot;footnote-backref&quot;&gt;↩︎&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        
-        <pubDate>Thu, 27 Jul 2017 05:00:00 +0000</pubDate>
-        <link>
-        http://localhost:4000/advanced-markdown</link>
-        <guid isPermaLink="true">http://localhost:4000/advanced-markdown</guid>
       </item>
       
     
