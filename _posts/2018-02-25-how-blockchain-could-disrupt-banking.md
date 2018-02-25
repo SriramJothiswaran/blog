@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/blockchain-technology-banking.jpg
+cover: assets/images/blockchain-technology-banking.jpg
 navigation: true
 title: How Blockchain Could Disrupt Banking
 date: 2018-02-25T16:51:58.670Z
