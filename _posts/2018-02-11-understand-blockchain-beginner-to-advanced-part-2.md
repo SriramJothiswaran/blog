@@ -17,3 +17,7 @@ In <a href="/understand-blockchain-beginner-to-advanced" target="_blank">part 1<
 With advent of bitcoin blockchain there came the need to make use of blockchain technology in different fields by limiting certain user groups with access to confidential data. New technologies are out faster than before, whatever the technology may do the end user's main concern is safety & security. Here comes the need for permission in blockchain.
 
 Private institutions like banks realized that they could use the core idea of blockchain as a distributed ledger technology (DLT), and create a permissioned blockchain (private or federated), where the validator is a member of a consortium or separate legal entities of the same organization. The term blockchain in the context of permissioned private ledger is highly controversial and disputed. This is why the term distributed ledger technologies emerged as a more general term.
+
+We will get into permissioned blockchain later on our hyperledger series <span style="color:red">(coming soon)</span>.
+
+<h2>Consensus Algorithms</h2>
