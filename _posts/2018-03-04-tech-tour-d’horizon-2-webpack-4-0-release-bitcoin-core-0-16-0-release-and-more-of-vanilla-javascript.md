@@ -20,6 +20,11 @@ published: true
 <p><a href="https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced-part-2" target="_blank">Understand Blockchain - Beginner to Advanced - Part 2
 </a>
 </p>
+
+<p><a href="https://bitcoinmagazine.com/articles/bitcoin-core-0160-released-heres-whats-new/" target="_blank">Bitcoin Core 0.16.0 Is Released
+</a>
+</p>
+
 <p><a href="https://www.coindesk.com/chinas-crypto-exchanges-didnt-just-survive-theyre-thriving/" target="_blank">China's Crypto Exchanges Are Thriving Again
 </a>
 </p>
@@ -50,4 +55,32 @@ published: true
 </p>
 
 <hr>
-<h1>Front-End / JS Libraries</h1>
+<h1>Front-End / Frameworks</h1>
+
+
+<p><a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4" target="_blank">Webpack 4.0 Released !
+</a>
+</p>
+
+<p><a href="http://propelml.org" target="_blank">Propel: A Scientific Computing Framework for JS
+</a>
+</p>
+
+<p><a href="https://www.telerik.com/campaigns/kendo-ui/wp-javascript-future-2018" target="_blank">The Future of JavaScript:
+2018 and Beyond
+</a>
+</p>
+
+<p><a href="https://alligator.io/vuejs/vue-a11y-autocomplete/" target="_blank">How to Create an Accessible Autocomplete Component with Vue.js
+</a>
+</p>
+
+<p><a href="https://atomiks.github.io/tippyjs/" target="_blank">Tippy.js
+A lightweight, vanilla JavaScript tooltip library
+</a>
+</p>
+
+<p><a href="https://medium.freecodecamp.org/how-to-build-a-real-time-todo-app-with-react-native-19a1ce15b0b3" target="_blank">How to build a real-time todo app with React Native
+
+</a>
+</p>

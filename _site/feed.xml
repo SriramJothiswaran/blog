@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-04T11:28:04+05:30</updated><id>http://localhost:4000/</id><title type="html">SriramJ’s Blog</title><subtitle>Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality</subtitle><entry><title type="html">Tech Tour D’Horizon - 2 - Webpack 4.0 Release, Bitcoin Core 0.16.0 Release and more of vanilla Javascript</title><link href="http://localhost:4000/tech-tour-d-horizon-2-webpack-4-0-release-bitcoin-core-0-16-0-release-and-more-of-vanilla-javascript" rel="alternate" type="text/html" title="Tech Tour D’Horizon - 2 - Webpack 4.0 Release, Bitcoin Core 0.16.0 Release and more of vanilla Javascript" /><published>2018-03-04T08:40:38+05:30</published><updated>2018-03-04T08:40:38+05:30</updated><id>http://localhost:4000/tech-tour-d%E2%80%99horizon-2-webpack-4-0-release-bitcoin-core-0-16-0-release-and-more-of-vanilla-javascript</id><content type="html" xml:base="http://localhost:4000/tech-tour-d-horizon-2-webpack-4-0-release-bitcoin-core-0-16-0-release-and-more-of-vanilla-javascript">&lt;h1&gt;Blockchain and Cryptocurrencies &lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-04T11:42:36+05:30</updated><id>http://localhost:4000/</id><title type="html">SriramJ’s Blog</title><subtitle>Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality</subtitle><entry><title type="html">Tech Tour D’Horizon - 2 - Webpack 4.0 Release, Bitcoin Core 0.16.0 Release and more of vanilla Javascript</title><link href="http://localhost:4000/tech-tour-d-horizon-2-webpack-4-0-release-bitcoin-core-0-16-0-release-and-more-of-vanilla-javascript" rel="alternate" type="text/html" title="Tech Tour D’Horizon - 2 - Webpack 4.0 Release, Bitcoin Core 0.16.0 Release and more of vanilla Javascript" /><published>2018-03-04T08:40:38+05:30</published><updated>2018-03-04T08:40:38+05:30</updated><id>http://localhost:4000/tech-tour-d%E2%80%99horizon-2-webpack-4-0-release-bitcoin-core-0-16-0-release-and-more-of-vanilla-javascript</id><content type="html" xml:base="http://localhost:4000/tech-tour-d-horizon-2-webpack-4-0-release-bitcoin-core-0-16-0-release-and-more-of-vanilla-javascript">&lt;h1&gt;Blockchain and Cryptocurrencies &lt;/h1&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced&quot; target=&quot;_blank&quot;&gt;Understand Blockchain - Beginner to Advanced - Part 1&lt;/a&gt;
@@ -6,6 +6,11 @@
 &lt;p&gt;&lt;a href=&quot;https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced-part-2&quot; target=&quot;_blank&quot;&gt;Understand Blockchain - Beginner to Advanced - Part 2
 &lt;/a&gt;
 &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bitcoinmagazine.com/articles/bitcoin-core-0160-released-heres-whats-new/&quot; target=&quot;_blank&quot;&gt;Bitcoin Core 0.16.0 Is Released
+&lt;/a&gt;
+&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://www.coindesk.com/chinas-crypto-exchanges-didnt-just-survive-theyre-thriving/&quot; target=&quot;_blank&quot;&gt;China's Crypto Exchanges Are Thriving Again
 &lt;/a&gt;
 &lt;/p&gt;
@@ -36,7 +41,34 @@
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Front-End / JS Libraries&lt;/h1&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="tour-d-horizon" /><summary type="html">Blockchain and Cryptocurrencies Understand Blockchain - Beginner to Advanced - Part 1 Understand Blockchain - Beginner to Advanced - Part 2 China's Crypto Exchanges Are Thriving Again Hacker Returns $26 Million in Ether Months After ICO Theft</summary></entry><entry><title type="html">How Blockchain Could Disrupt Banking</title><link href="http://localhost:4000/how-blockchain-could-disrupt-banking" rel="alternate" type="text/html" title="How Blockchain Could Disrupt Banking" /><published>2018-02-25T22:21:58+05:30</published><updated>2018-02-25T22:21:58+05:30</updated><id>http://localhost:4000/how-blockchain-could-disrupt-banking</id><content type="html" xml:base="http://localhost:4000/how-blockchain-could-disrupt-banking">&lt;p&gt;&lt;strong&gt;Blockchain is transforming everything from payments transactions to how money is raised in the private market. As it picks up momentum, will the traditional banking industry embrace this new technology or be replaced by it?&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;Front-End / Frameworks&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-4-released-today-6cdb994702d4&quot; target=&quot;_blank&quot;&gt;Webpack 4.0 Released !
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://propelml.org&quot; target=&quot;_blank&quot;&gt;Propel: A Scientific Computing Framework for JS
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.telerik.com/campaigns/kendo-ui/wp-javascript-future-2018&quot; target=&quot;_blank&quot;&gt;The Future of JavaScript:
+2018 and Beyond
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://alligator.io/vuejs/vue-a11y-autocomplete/&quot; target=&quot;_blank&quot;&gt;How to Create an Accessible Autocomplete Component with Vue.js
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://atomiks.github.io/tippyjs/&quot; target=&quot;_blank&quot;&gt;Tippy.js
+A lightweight, vanilla JavaScript tooltip library
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.freecodecamp.org/how-to-build-a-real-time-todo-app-with-react-native-19a1ce15b0b3&quot; target=&quot;_blank&quot;&gt;How to build a real-time todo app with React Native
+
+&lt;/a&gt;
+&lt;/p&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="tour-d-horizon" /><summary type="html">Blockchain and Cryptocurrencies Understand Blockchain - Beginner to Advanced - Part 1 Understand Blockchain - Beginner to Advanced - Part 2</summary></entry><entry><title type="html">How Blockchain Could Disrupt Banking</title><link href="http://localhost:4000/how-blockchain-could-disrupt-banking" rel="alternate" type="text/html" title="How Blockchain Could Disrupt Banking" /><published>2018-02-25T22:21:58+05:30</published><updated>2018-02-25T22:21:58+05:30</updated><id>http://localhost:4000/how-blockchain-could-disrupt-banking</id><content type="html" xml:base="http://localhost:4000/how-blockchain-could-disrupt-banking">&lt;p&gt;&lt;strong&gt;Blockchain is transforming everything from payments transactions to how money is raised in the private market. As it picks up momentum, will the traditional banking industry embrace this new technology or be replaced by it?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Last September, JPMorgan Chase CEO Jamie Dimon took a stab at Bitcoin: “It’s worse than tulip bulbs. It won’t end well. Someone is going to get killed.”&lt;/p&gt;
 
