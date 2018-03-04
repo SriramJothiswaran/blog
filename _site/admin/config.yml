@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: blog.sriramj.xyz
 
-media_folder: "./assets/images"
+media_folder: "assets/images"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
