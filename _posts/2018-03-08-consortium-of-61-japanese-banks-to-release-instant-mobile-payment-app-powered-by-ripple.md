@@ -1,17 +1,17 @@
 ---
 layout: post
 current: post
-cover: /assets/images/ripple_mobile.png
+cover: assets/images/ripple_mobile.png
 navigation: true
 title: >-
   Consortium Of 61 Japanese Banks To Release Instant Mobile Payment App Powered
   By Ripple
 date: '2018-03-08T00:17:15+05:30'
-tags: 'blockchain,cryptocurrency'
+tags: blockchain cryptocurrency
 class: post-template
 subclass: tag - blockchain
 author: sriram
-published: false
+published: true
 ---
 The Japanese Bank Consortium will release an instant domestic payments mobile app, “MoneyTap,” using Ripple’s technology in the fall of 2018, Ripple’s blog reported yesterday, March 6.
 
