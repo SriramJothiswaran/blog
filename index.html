@@ -11,6 +11,9 @@ into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
 <header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+  <marquee style=" background: #dae2f8; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #283048, #859398); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #283048, #859398); font-weight: bold; color: white;" behavior="" direction="">Tech Tour D'Horizon - 3 will be posted some time this week. Due to unavoidable circumstances i couldn't make it up on sunday.</marquee>
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
