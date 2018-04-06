@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/blockchain-and-the-supply-chain.png
+cover: assets/images/blockchain-and-the-supply-chain.png
 navigation: true
 title: 5 Questions why you should Blockchain Technology
 date: '2018-04-06T23:27:24+05:30'
@@ -9,7 +9,7 @@ tags: blockchain
 class: post-template
 subclass: tag blockchain
 author: sriram
-published: false
+published: true
 ---
 As the market around blockchain continues to grow, a range of different distributed ledger technologies are becoming available for enterprise users to apply blockchain. When looking at your options, it is important to note that certain protocols are suited to certain use cases, and time-to-value can be accelerated by leveraging existing networks that already exist. In this blog, I will give you a series of questions to consider when selecting a distributed ledger technology.
 
@@ -60,6 +60,8 @@ Corda, for instance, is only configurable for private networks in the financial 
 **How does blockchain meet the other key enterprise requirements?**
 
 * **Scalability** – Distributed ledger technologies must be able to scale as the network grows in terms of both transactions and participants. Things such as centralized validation services and complex peer compiling processes have a high likelihood of limiting scale.
-* **Regulatory risk **– One of the biggest open questions in the blockchain space is the regulatory perspective on cryptocurrencies as an application of distributed ledger technology. Due consideration should be given to the likelihood of regulatory action on protocols supporting public cryptocurrencies.
+* **Regulatory risk ** – One of the biggest open questions in the blockchain space is the regulatory perspective on cryptocurrencies as an application of distributed ledger technology. Due consideration should be given to the likelihood of regulatory action on protocols supporting public cryptocurrencies.
 * **Skills availability** – The blockchain space has seen a number of high profile data and asset breaches due to the immaturity of new programming languages. Enterprise users should leverage distributed ledger technologies which enable their developers to work with tools and programming languages they are already familiar with.
-* **Support **– Like any enterprise application, there needs to be an appropriate level of support for the entire stack. Whether through open source communities or platform and solution providers, support is needed from the build to production phases of adoption.
+* **Support ** – Like any enterprise application, there needs to be an appropriate level of support for the entire stack. Whether through open source communities or platform and solution providers, support is needed from the build to production phases of adoption.
+
+<small style="font-size:10px"> * curated with help of guest writer<small/>

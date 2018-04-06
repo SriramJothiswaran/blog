@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-12T22:32:28+05:30</updated><id>http://localhost:4000/</id><title type="html">SriramJ’s Blog</title><subtitle>Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality</subtitle><entry><title type="html">Consortium Of 61 Japanese Banks To Release Instant Mobile Payment App Powered By Ripple</title><link href="http://localhost:4000/consortium-of-61-japanese-banks-to-release-instant-mobile-payment-app-powered-by-ripple" rel="alternate" type="text/html" title="Consortium Of 61 Japanese Banks To Release Instant Mobile Payment App Powered By Ripple" /><published>2018-03-08T00:17:15+05:30</published><updated>2018-03-08T00:17:15+05:30</updated><id>http://localhost:4000/consortium-of-61-japanese-banks-to-release-instant-mobile-payment-app-powered-by-ripple</id><content type="html" xml:base="http://localhost:4000/consortium-of-61-japanese-banks-to-release-instant-mobile-payment-app-powered-by-ripple">&lt;p&gt;The Japanese Bank Consortium will release an instant domestic payments mobile app, “MoneyTap,” using Ripple’s technology in the fall of 2018, Ripple’s blog reported yesterday, March 6.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-06T23:44:24+05:30</updated><id>http://localhost:4000/</id><title type="html">SriramJ’s Blog</title><subtitle>Get all news about blockchain, cryptocurrencies, web development, artificial intelligence, virtual reality</subtitle><entry><title type="html">5 Questions why you should Blockchain Technology</title><link href="http://localhost:4000/5-questions-why-you-should-blockchain-technology" rel="alternate" type="text/html" title="5 Questions why you should Blockchain Technology" /><published>2018-04-06T23:27:24+05:30</published><updated>2018-04-06T23:27:24+05:30</updated><id>http://localhost:4000/5-questions-why-you-should-blockchain-technology</id><content type="html" xml:base="http://localhost:4000/5-questions-why-you-should-blockchain-technology">&lt;p&gt;As the market around blockchain continues to grow, a range of different distributed ledger technologies are becoming available for enterprise users to apply blockchain. When looking at your options, it is important to note that certain protocols are suited to certain use cases, and time-to-value can be accelerated by leveraging existing networks that already exist. In this blog, I will give you a series of questions to consider when selecting a distributed ledger technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is the protocol open sourced and openly governed?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Simply posting code on an open developer site is not enough — there needs to be a governing body which maintains the code in line with enterprise needs.Hyperledger openly validates the inputs through the Technical Steering Committee to ensure innovations are supported which harden blockchain for business.&lt;/p&gt;
+
+&lt;p&gt;The recent addition of zero-knowledge proofs and identity mixer to Hyperledger Fabric demonstrates Hyperledger’s willingness to support continuous innovation for enterprise needs.&lt;/p&gt;
+
+&lt;p&gt;Other protocols such as Ethereum and Corda lie at the hands of a very small group of developers, often from a single organization. This means they centrally control the roadmap of their technologies, ultimately at the expense of innovation in the long run.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Who will be a part of the network?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The next key question for an organization is; who are the intended participants of the blockchain network? Participants can include business partners, application providers, regulators or even competitors.&lt;/p&gt;
+
+&lt;p&gt;The majority of enterprise networks require that at least a core subset of the network members, if not all, need to be known to each other. We call this a permission network. Hyperledger Fabric allows a common identity verification scheme to be configured for a network. This scheme can be configured for a small private network, or for a more distributed public facing network. The key consideration is whether sufficient data will be known so that you can interact with a sufficient trust in who is on the other side.&lt;/p&gt;
+
+&lt;p&gt;Many other enterprise protocols rely on single organizations to act as gates to approve participants as well as transactions. This model struggles to scale as the network grows.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What use case will drive transactions on the network?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Another key consideration when choosing a protocol is the types of transactions that will be submitted to the network.&lt;/p&gt;
+
+&lt;p&gt;If the transactions are for an arbitrary asset type — as in defined for the network and representing a physical or digital asset — a programming model like Hyperledger Composer can be used to model the assets, participants and transactions. This can then be deployed to a running instance of Hyperledger Fabric.&lt;/p&gt;
+
+&lt;p&gt;This is also when you should consider the privacy and security implications of your transactions. In many cases you may need a protocol that will allow you to keep transaction data private between participants.&lt;/p&gt;
+
+&lt;p&gt;The use case may also necessitate the use of a trusted public network when dictated by a business need. Two prime examples of this are for trusted identity and universal payments. For instance, a distributed ledger like Stellar enables transfer of cross-border payments, enabling universal settlement of assets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is the technology modular and easy to use?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Perhaps one of the most critical aspects of a distributed ledger technology for enterprise use is the ability to configure the technology for an enterprise use-case.&lt;/p&gt;
+
+&lt;p&gt;Key features such as consensus, permissions and database, should be modular to the needs of a specific use case. For instance, one use-case may require every participant in the network to endorse transactions before they are considered valid, while others may have less stringent requirements.&lt;/p&gt;
+
+&lt;p&gt;Many distributed ledger technologies struggle to support needed levels of modularity and therefore have to rely on bulky consensus protocols like proof of work in order to scale. Even worse, making changes to these aspects of the network even when used for a private network may require complex development processes to adapt.&lt;/p&gt;
+
+&lt;p&gt;Corda, for instance, is only configurable for private networks in the financial space, rather than being a modular technology which can be used for a range of use cases across industries, integrating multiple additional technologies for IoT.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How does blockchain meet the other key enterprise requirements?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt; – Distributed ledger technologies must be able to scale as the network grows in terms of both transactions and participants. Things such as centralized validation services and complex peer compiling processes have a high likelihood of limiting scale.&lt;/li&gt;
+  &lt;li&gt;**Regulatory risk ** – One of the biggest open questions in the blockchain space is the regulatory perspective on cryptocurrencies as an application of distributed ledger technology. Due consideration should be given to the likelihood of regulatory action on protocols supporting public cryptocurrencies.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Skills availability&lt;/strong&gt; – The blockchain space has seen a number of high profile data and asset breaches due to the immaturity of new programming languages. Enterprise users should leverage distributed ledger technologies which enable their developers to work with tools and programming languages they are already familiar with.&lt;/li&gt;
+  &lt;li&gt;**Support ** – Like any enterprise application, there needs to be an appropriate level of support for the entire stack. Whether through open source communities or platform and solution providers, support is needed from the build to production phases of adoption.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;small style=&quot;font-size:10px&quot;&gt; * curated with help of guest writer&lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="blockchain" /><summary type="html">As the market around blockchain continues to grow, a range of different distributed ledger technologies are becoming available for enterprise users to apply blockchain. When looking at your options, it is important to note that certain protocols are suited to certain use cases, and time-to-value can be accelerated by leveraging existing networks that already exist. In this blog, I will give you a series of questions to consider when selecting a distributed ledger technology.</summary></entry><entry><title type="html">Consortium Of 61 Japanese Banks To Release Instant Mobile Payment App Powered By Ripple</title><link href="http://localhost:4000/consortium-of-61-japanese-banks-to-release-instant-mobile-payment-app-powered-by-ripple" rel="alternate" type="text/html" title="Consortium Of 61 Japanese Banks To Release Instant Mobile Payment App Powered By Ripple" /><published>2018-03-08T00:17:15+05:30</published><updated>2018-03-08T00:17:15+05:30</updated><id>http://localhost:4000/consortium-of-61-japanese-banks-to-release-instant-mobile-payment-app-powered-by-ripple</id><content type="html" xml:base="http://localhost:4000/consortium-of-61-japanese-banks-to-release-instant-mobile-payment-app-powered-by-ripple">&lt;p&gt;The Japanese Bank Consortium will release an instant domestic payments mobile app, “MoneyTap,” using Ripple’s technology in the fall of 2018, Ripple’s blog reported yesterday, March 6.&lt;/p&gt;
 
 &lt;p&gt;The 61-bank consortium, led by SBI Ripple Asia, is representative of more than 80 percent of all of Japan’s banking assets, according to Ripple. Takashi Okita, CEO of SBI Ripple Asia, said in Ripple’s blog post:&lt;/p&gt;
 
@@ -362,112 +409,4 @@ A lightweight, vanilla JavaScript tooltip library
 
 &lt;p&gt;The ASIC place is currently dominated by China-based  Bitmain and Canaan Creative, Samsung is all set to give a tough competition.&lt;/p&gt;
 
-&lt;p&gt;How Samsung fits into this equation isn’t clear right now. At a base level, it will rival TSMC — which it knows well from competing in other industry segments — for the attention of companies that build and sell finished mining products in the market. But, if Samsung’s move brings on new partners or if it makes hardware itself, then it could enable competitors to Bitmain and co.&lt;/p&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="cryptocurrency" /><summary type="html">Samsung has started manufacturing ASIC chips for cryptocurrency mining, a company spokesperson recently confirmed this news.</summary></entry><entry><title type="html">Understand Blockchain - Beginner to Advanced - Part 1</title><link href="http://localhost:4000/understand-blockchain-beginner-to-advanced" rel="alternate" type="text/html" title="Understand Blockchain - Beginner to Advanced - Part 1" /><published>2018-02-03T15:48:00+05:30</published><updated>2018-02-03T15:48:00+05:30</updated><id>http://localhost:4000/understand-blockchain-beginner-to-advanced</id><content type="html" xml:base="http://localhost:4000/understand-blockchain-beginner-to-advanced">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;This article introduces you to the distributed ledger technologies (DLT), this includes blockchain too.&lt;/p&gt;
-
-&lt;p&gt;What you will learn :-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Blockchain and DLT&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;growth-of-distributed-ledger-technologies&quot;&gt;Growth of Distributed Ledger Technologies&lt;/h2&gt;
-
-&lt;p&gt;Let’s get back to late nineties were computers filled the entire room. Mainframes were more centralized in nature that would serve the entire building. The access was through dumb terminals which does I/O operations without  much of storage and processing.&lt;/p&gt;
-
-&lt;p&gt;With the invention of PC’s similar computational capabilities were now housed both on the clients, as well as the servers. This gave rise to ‘client-server’ architecture, which supported the development of relational database systems. Massive data sets, which are housed on mainframes, could move onto a distributed architecture. This data could replicate from server to server, and subsets of the data could be accessed and processed on clients, and then, synced back to the server.&lt;/p&gt;
-
-&lt;p&gt;As time went by, Internet and cloud architecture enabled global access using various devices.There are two major problems with cloud computing:&lt;/p&gt;
-
-&lt;p&gt;(a) users don’t own their own data, and&lt;/p&gt;
-
-&lt;p&gt;(b) remote servers are security holes.&lt;/p&gt;
-
-&lt;p&gt;With a move away from cloud computing, decentralized systems like Bitcoin give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;give explicit control of digital assets to end-users and remove the need to trust any third-party servers and infrastructure&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;distributed-ledger-technology-dlt&quot;&gt;Distributed Ledger Technology (DLT)&lt;/h2&gt;
-
-&lt;p&gt;A “distributed ledger” is another term for a blockchain. It distributes a database (a ledger) of transactions to all participants in a network (also called “peers” or “nodes”). There is no central administrator or centralised data storage.&lt;/p&gt;
-
-&lt;p&gt;Distributed ledgers existed prior to Bitcoin, the Bitcoin blockchain marks the convergence of a host of technologies, including time-stamping of transactions, Peer-to-Peer (P2P) networks, cryptography, and shared computational power, along with a new consensus algorithm.&lt;/p&gt;
-
-&lt;p&gt;In summary, distributed ledger technology generally consists of three basic components:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A &lt;strong&gt;data model&lt;/strong&gt; that captures the current state of the ledger&lt;/li&gt;
-  &lt;li&gt;A &lt;strong&gt;language of transactions&lt;/strong&gt; that changes the ledger state&lt;/li&gt;
-  &lt;li&gt;A &lt;strong&gt;protocol&lt;/strong&gt; used to build consensus among participants around which transactions will be accepted, and in what order, by the ledger.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6WG7D47tGb0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;blockchains&quot;&gt;Blockchains&lt;/h2&gt;
-
-&lt;p&gt;As per wikipedia,&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a cryptographic hash of the previous block, a timestamp and transaction data&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;My way of defining&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Blockchain is typically a distributed ledger in combination with smart contracts and other assistive technologies. Distribution of ledger happens by various consensus algorithm.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Smart contracts&lt;/strong&gt; are simply computer programs that execute predefined actions when certain conditions within the system are met. You can imagine it as a logical IF statement.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if(both parties agree){execute certain instructions}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Consensus&lt;/strong&gt; refers to a system of ensuring that parties agree to a certain state of the system as the true state.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/consensus.jpg&quot; alt=&quot;consensus&quot; style=&quot;width: 250px; height:250px&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blockchain&lt;/strong&gt; is constructed by sequential order of blocks, hence the name block-chain. A block refers to set of transactions that are bundled together and added to the chain at same time. In bitcoin network miners cluster unconfirmed and valid transactions into a block. Each block has a size limit and contain a given number of transactions . In bitcoin network miner nodes must solve cryptographic challenge to move to the next block. This process in known as** “Proof of Work” **and this requires significant computing power to solve cryptographic problem.&lt;/p&gt;
-
-&lt;h2 id=&quot;blockchain-time-stamping&quot;&gt;Blockchain Time-Stamping&lt;/h2&gt;
-
-&lt;p&gt;Timestamping is a major feature of blockchain technology. Here each block is timestamped, with every new block being reffered to the previous block. Combined with cryptographic hashes, this timestamped chain of blocks provides an immutable record of all transactions in the network, from the very first (or genesis) block.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/merkle.jpg&quot; alt=&quot;merkle root&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A block in the blockchain network commonly consists of following metadata :-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Timestamp&lt;/li&gt;
-  &lt;li&gt;Nonce (proof of work)&lt;/li&gt;
-  &lt;li&gt;Merkle Root for transactions in the block&lt;/li&gt;
-  &lt;li&gt;Reference to previous block&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;merkle-tree&quot;&gt;Merkle Tree&lt;/h2&gt;
-
-&lt;p&gt;The Merkle tree, also known as a binary hash tree, is a data structure that is used to store hashes of the individual data in large datasets in a way to make the verification of the dataset efficient. It is an anti-tamper mechanism to ensure that the large dataset has not been changed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/merkletree.png&quot; alt=&quot;merkle tree&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Merkle trees are used to summarize all the transactions in a block, producing an overall digital fingerprint of the entire set of transactions, providing a very efficient process to verify whether a transaction is included in a block.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;difference-between-blockchain-and-database&quot;&gt;Difference between Blockchain and Database&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/Centralized_Databases_vs_Blockchain.png&quot; alt=&quot;merkle tree&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There are some key disimilarities between blockchain and traditional database.&lt;/p&gt;
-
-&lt;p&gt;Blockchain is read-only architecture, where as in database data can be  read , modifed and deleted. Every new block gets appended to the block chain by linking to the previous block’s ‘hash’. There are no administrator permissions within a blockchain that allow editing or deleting of data.&lt;/p&gt;
-
-&lt;p&gt;Blockchains were designed for decentralized applications, whereas relational databases, in general, were originally designed for centralized applications, where a single entity controls the data.&lt;/p&gt;
-
-&lt;p&gt;##&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced-part-2&quot;&gt;&lt;strong&gt;Click here for Understand Blockchain - Beginner to Advanced - Part 2 (permissionless and permissioned blockchain)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="blockchain" /><summary type="html">Introduction</summary></entry></feed>
+&lt;p&gt;How Samsung fits into this equation isn’t clear right now. At a base level, it will rival TSMC — which it knows well from competing in other industry segments — for the attention of companies that build and sell finished mining products in the market. But, if Samsung’s move brings on new partners or if it makes hardware itself, then it could enable competitors to Bitmain and co.&lt;/p&gt;</content><author><name>Sriram Jothiswaran</name></author><category term="cryptocurrency" /><summary type="html">Samsung has started manufacturing ASIC chips for cryptocurrency mining, a company spokesperson recently confirmed this news.</summary></entry></feed>
