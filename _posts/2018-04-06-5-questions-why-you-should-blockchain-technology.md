@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/blockchain-and-the-supply-chain.png
 navigation: true
-title: 5 Questions why you should Blockchain Technology
+title: 5 Questions why you should choose Blockchain Technology
 date: '2018-04-06T23:27:24+05:30'
 tags: blockchain
 class: post-template
