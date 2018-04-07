@@ -8,6 +8,7 @@ date: 2018-02-11T16:41:31.328Z
 tags: blockchain
 class: post-template
 subclass: tag-blockchain
+comments: True
 author: sriram
 ---
 

@@ -11,6 +11,7 @@ tags: TOUR-D-HORIZON
 class: post-template
 subclass: tag TOUR-D-HORIZON
 author: sriram
+comments: True
 published: false
 ---
 drafting

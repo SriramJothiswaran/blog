@@ -11,6 +11,7 @@ tags: tour-d-horizon
 class: post-template
 subclass: tag-tour-d-horizon
 author: sriram
+comments: True
 published: true
 ---
 <h1>Blockchain and Cryptocurrencies </h1>

@@ -9,6 +9,7 @@ tags: blockchain
 class: post-template
 subclass: tag-blockchain
 author: sriram
+comments: True
 published: true
 ---
 **Blockchain is transforming everything from payments transactions to how money is raised in the private market. As it picks up momentum, will the traditional banking industry embrace this new technology or be replaced by it?**

@@ -8,6 +8,7 @@ date: 2018-02-09T16:45:23.960Z
 tags: cryptocurrency
 class: post-template
 subclass: tag-cryptocurrency
+comments: True
 author: sriram
 ---
 Samsung has started manufacturing ASIC chips for cryptocurrency mining, a company spokesperson recently confirmed this news.

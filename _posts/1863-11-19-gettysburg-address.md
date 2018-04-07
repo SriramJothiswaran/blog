@@ -9,6 +9,7 @@ tags:
 class: post-template
 subclass: 'post'
 author: sriram
+comments: True
 published: false
 
 ---

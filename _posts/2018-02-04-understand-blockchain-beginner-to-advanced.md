@@ -8,6 +8,7 @@ date: 2018-02-03T10:18:00.000Z
 tags: blockchain
 class: post-template
 subclass: post tag-blockchain
+comments: True
 author: sriram
 ---
 # Introduction
@@ -85,7 +86,7 @@ A block in the blockchain network commonly consists of following metadata :-
 
 ## Merkle Tree
 
-The Merkle tree, also known as a binary hash tree, is a data structure that is used to store hashes of the individual data in large datasets in a way to make the verification of the dataset efficient. It is an anti-tamper mechanism to ensure that the large dataset has not been changed. 
+The Merkle tree, also known as a binary hash tree, is a data structure that is used to store hashes of the individual data in large datasets in a way to make the verification of the dataset efficient. It is an anti-tamper mechanism to ensure that the large dataset has not been changed.
 
 <img src="assets/images/merkletree.png" alt="merkle tree"/>
 
@@ -99,10 +100,10 @@ The Merkle tree, also known as a binary hash tree, is a data structure that is u
 
 There are some key disimilarities between blockchain and traditional database.
 
-Blockchain is read-only architecture, where as in database data can be  read , modifed and deleted. Every new block gets appended to the block chain by linking to the previous block's 'hash'. There are no administrator permissions within a blockchain that allow editing or deleting of data. 
+Blockchain is read-only architecture, where as in database data can be  read , modifed and deleted. Every new block gets appended to the block chain by linking to the previous block's 'hash'. There are no administrator permissions within a blockchain that allow editing or deleting of data.
 
 Blockchains were designed for decentralized applications, whereas relational databases, in general, were originally designed for centralized applications, where a single entity controls the data.
 
-## 
+##
 
 [**Click here for Understand Blockchain - Beginner to Advanced - Part 2 (permissionless and permissioned blockchain)**](https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced-part-2)

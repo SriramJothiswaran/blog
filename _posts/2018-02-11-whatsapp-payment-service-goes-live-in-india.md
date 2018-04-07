@@ -8,6 +8,7 @@ date: 2018-02-11T14:03:47.718Z
 tags: whatsapp
 class: post-template
 subclass: tag-whatsapp
+comments: True
 author: sriram
 ---
 Whatsapp has been working on peer to peer payments for a long peroid of time. As a WhatsApp beta tester i tweeted regarding this major update last year multiple times and got fed up on not coming up for general use. Finally Facebook owned messaging company launched payment service in beta in India. Many beta users saw this feature poping up in both IOS and Android.

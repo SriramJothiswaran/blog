@@ -11,6 +11,7 @@ tags: blockchain cryptocurrency
 class: post-template
 subclass: tag - blockchain
 author: sriram
+comments: True
 published: true
 ---
 The Japanese Bank Consortium will release an instant domestic payments mobile app, “MoneyTap,” using Ripple’s technology in the fall of 2018, Ripple’s blog reported yesterday, March 6.

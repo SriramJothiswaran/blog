@@ -8,6 +8,7 @@ date: 2018-02-15T05:36:57.590Z
 tags: cryptocurrency
 class: post-template
 subclass: tag-cryptocurrency
+comments: True
 author: sriram
 ---
 You can add Western Union to the growing list of banks and financial institutions that are test-driving Ripple, the blockchain company trying to become the go-to service for global money transfers.
