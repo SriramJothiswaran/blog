@@ -9,6 +9,7 @@ tags: blockchain
 class: post-template
 subclass: tag blockchain
 author: sriram
+comments: true
 published: true
 ---
 As the market around blockchain continues to grow, a range of different distributed ledger technologies are becoming available for enterprise users to apply blockchain. When looking at your options, it is important to note that certain protocols are suited to certain use cases, and time-to-value can be accelerated by leveraging existing networks that already exist. In this blog, I will give you a series of questions to consider when selecting a distributed ledger technology.

@@ -26,11 +26,19 @@ twitter: sriramvj # replace by your username
 facebook: sriramVJrasigan # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: myjekyll # replace with your disqus username
+# disqus: True
+# disqus_shortname: myjekyll # replace with your disqus username
+
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: sriramj
+
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-111767825-2 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title

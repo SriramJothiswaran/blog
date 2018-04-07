@@ -170,6 +170,9 @@ into the {body} of the default.hbs template -->
                             </a>
                         </footer>
                     </article>
+                    {% if site.disqus.shortname %}
+                      {% include disqus_comments.html %}
+                    {% endif %}
                 {% endif %}
             {% endif %}
 
