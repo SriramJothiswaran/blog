@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: /assets/images/crypto.jpg
+cover: assets/images/crypto.jpg
 navigation: true
 title: Cryptography zero to hero - part 1| Introduction and history of Cryptography
 date: '2018-04-29T15:05:08+05:30'
@@ -97,7 +97,7 @@ Cryptography is not
   1. the solution to all security problems
   2. reliable unless implemented and used properly
   3. something you should try to invent yourself
-  
+
 ----------
 
 Before we start with the technical material, I wanna give you a quick overview of what cryptography is about and the different areas of cryptography. So the core of cryptography of course is secure communication that essentially consists of two parts. The first is secured key establishment and then how do we communicate securely once we have a shared key. We already said that secured key establishment essentially amounts to Alice and Bob sending messages to one another such that at the end of this protocol, there's a shared key that they both agree on, shared key K, and beyond that, beyond just a shared key, in fact Alice would know that she's talking to Bob and Bob would know that he's talking to Alice. But a poor attacker who listens in on this conversation has no idea what the shared key is. Now once they have a shared key, they want to exchange messages securely using this key, and we'll talk about encryption schemes that allow them to do that in such a way that an attacker can't figure out what messages are being sent back and forth. And furthermore an attacker cannot even tamper with this traffic without being detected. In other words, these encryption schemes provide both confidentiality and integrity. But cryptography does much, much, much more than just these two things.
