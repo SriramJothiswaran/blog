@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/crypto.png
+cover: /assets/images/crypto.jpg
 navigation: true
 title: Cryptography zero to hero - part 1| Introduction and history of Cryptography
 date: '2018-04-29T15:05:08+05:30'
