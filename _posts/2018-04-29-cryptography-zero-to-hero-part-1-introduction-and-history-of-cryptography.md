@@ -9,7 +9,7 @@ tags: cryptography
 class: post-template
 subclass: tag-cryptography
 author: sriram
-published: false
+published: true
 ---
 
 In my previous posts you can see more about blockchain, i thought of introducing you to understand how blockchain works and move towards blockchain frameworks like hyperledger and Ethereum Dapps. If you have read my previous articles **Understand Blockchain - Beginner to Advanced -** [**Part 1**](https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced) **&** [**Part 2**](https://blog.sriramj.xyz/understand-blockchain-beginner-to-advanced-part-2) ****you would have got some theoretical overview of how blockchain works. Lets get more deeper and understand blockchain at a very ground level. Be it public or private blockchain everyone needs the data to be safe and secure, cryptography is the art of securing information. This article will provide details why and where cryptography is being used and some historical cryptographic techniques.
